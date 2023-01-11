@@ -1,0 +1,3 @@
+To run the program you need to install Flask and Bcrypt
+Then run the command "python3 app.py", check localhost for result
+If this is done on the server you can access it through https://jhj010.csano.no
